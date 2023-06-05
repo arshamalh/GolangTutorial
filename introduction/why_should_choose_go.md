@@ -1,0 +1,3 @@
+- Simplicity
+- Fast and perfomant
+- Backed by google and community

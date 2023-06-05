@@ -1,0 +1,2165 @@
+﻿1
+00:00:07,020 --> 00:00:09,350
+<i>I'll rip your dick off, you son of a bitch!</i>
+
+2
+00:00:09,360 --> 00:00:11,470
+<i>My eye!</i>
+
+3
+00:00:11,480 --> 00:00:13,680
+On behalf of the entire Disrupt conference,
+
+4
+00:00:13,690 --> 00:00:18,470
+I would like to apologize for what
+happened out there this afternoon.
+
+5
+00:00:18,480 --> 00:00:21,530
+This man will never be
+asked to judge again.
+
+6
+00:00:21,540 --> 00:00:26,610
+I've just learned he's been fired from
+Oracle, and apparently his wife left him.
+
+7
+00:00:26,620 --> 00:00:31,450
+Anyway, I just got a call from
+your attorney, Mr. LaFlamme,
+
+8
+00:00:31,460 --> 00:00:36,749
+informing me that in his view
+this incident is... actionable.
+
+9
+00:00:36,750 --> 00:00:41,089
+And in addition to holding
+TechCrunch liable for any damages,
+
+10
+00:00:41,090 --> 00:00:43,210
+which may include the loss to Pied Piper
+
+11
+00:00:43,220 --> 00:00:46,630
+of potentially billions in
+revenue and share value,
+
+12
+00:00:46,640 --> 00:00:51,670
+uh, he be may naming me
+personally in a lawsuit.
+
+13
+00:00:51,680 --> 00:00:56,810
+So... I would like to propose that
+we put this incident behind us,
+
+14
+00:00:56,820 --> 00:01:02,109
+legally speaking, by sending Pied
+Piper directly through to the finals
+
+15
+00:01:02,110 --> 00:01:06,940
+of Start-Up Battlefield, where you
+will compete for the grand prize.
+
+16
+00:01:06,950 --> 00:01:09,449
+- How does that sound?
+- I think that's...
+
+17
+00:01:09,450 --> 00:01:20,500
+One question, uh, regarding
+our hotel accommodations?
+
+18
+00:01:20,510 --> 00:01:24,620
+Bam! Am I right, guys?
+
+19
+00:01:24,630 --> 00:01:28,040
+I was just happy you
+got punched in the face, Erlich,
+
+20
+00:01:28,050 --> 00:01:31,600
+but now I'm super happy.
+I feel like I won twice.
+
+21
+00:01:31,610 --> 00:01:35,630
+I'm gonna disrupt this bathroom.
+
+22
+00:01:35,640 --> 00:01:39,550
+I don't think this couch pulls out. I
+guess I'll get myself a rollaway bed.
+
+23
+00:01:39,560 --> 00:01:43,470
+I mean, you're welcome, guys. I had
+to fuck a wife and take a punch,
+
+24
+00:01:43,480 --> 00:01:45,860
+but now we get to go
+into the finals tomorrow
+
+25
+00:01:45,870 --> 00:01:48,030
+without having blown
+our wad in the prelims.
+
+26
+00:01:48,040 --> 00:01:51,060
+We're trending up, boys.
+We are trending up.
+
+27
+00:01:51,070 --> 00:01:53,330
+Maybe you're right. But we should probably
+
+28
+00:01:53,340 --> 00:01:55,650
+get back down there and
+check out the competition.
+
+29
+00:01:55,660 --> 00:01:58,820
+<i>Ladies and
+gentlemen, Gavin Belson.</i>
+
+30
+00:02:02,170 --> 00:02:05,730
+No matter what you may
+have heard, size matters.
+
+31
+00:02:05,740 --> 00:02:10,170
+Welcome, everyone, to a
+journey into the Nucleus.
+
+32
+00:02:10,180 --> 00:02:11,340
+I hope this sucks.
+
+33
+00:02:11,350 --> 00:02:14,220
+Nucleus will provide the
+most diverse features
+
+34
+00:02:14,230 --> 00:02:16,760
+ever assembled in a
+cloud-based compression suite.
+
+35
+00:02:16,770 --> 00:02:20,190
+Massive functionality, inter-connectivity,
+
+36
+00:02:20,200 --> 00:02:23,400
+and the simplicity one has come
+to expect from the Hooli family.
+
+37
+00:02:23,410 --> 00:02:27,900
+We're making all your files available
+for lightning-fast download.
+
+38
+00:02:27,910 --> 00:02:30,190
+Accessible from any device.
+
+39
+00:02:30,200 --> 00:02:34,110
+All these features will be
+seamlessly synced to Hooli-mail,
+
+40
+00:02:34,120 --> 00:02:38,500
+Hooli-search and the full
+suite of Hooli computing power.
+
+41
+00:02:38,510 --> 00:02:40,750
+That's a lot of functionality.
+
+42
+00:02:40,760 --> 00:02:43,450
+Don't worry, he can't come
+close to our Weissman score.
+
+43
+00:02:43,460 --> 00:02:47,090
+Even with all this extra shit, it's
+like a fancy car with a crappy engine.
+
+44
+00:02:47,100 --> 00:02:49,770
+And now, for the moment of truth.
+
+45
+00:02:49,780 --> 00:02:57,010
+As you will now see, our Weissman score
+is the best in the history of compression.
+
+46
+00:02:57,020 --> 00:02:59,470
+What the fuck?
+
+47
+00:02:59,480 --> 00:03:01,550
+That's exactly the same score as us.
+
+48
+00:03:01,560 --> 00:03:06,060
+Two-point-eight-nine. That is not an error.
+
+49
+00:03:06,070 --> 00:03:11,530
+We are breathing rare air here, operating
+at the limit for lossless compression
+
+50
+00:03:11,540 --> 00:03:14,230
+in audio, video and data.
+
+51
+00:03:14,240 --> 00:03:19,079
+Anyone who tells you that their platform is
+faster than ours better have good lawyers.
+
+52
+00:03:19,080 --> 00:03:22,570
+I hope you've enjoyed your
+journey into the Nucleus.
+
+53
+00:03:22,580 --> 00:03:28,460
+We have the speed. We have the
+features. And we have... Shakira!
+
+54
+00:03:32,760 --> 00:03:36,340
+Hola, TechCrunch!
+
+55
+00:03:41,730 --> 00:03:46,730
+☯Synced & Corrected by<font color=#80397b> Seppuku17</font>☯
+❃<font color=#e796af>www.addic7ed.com</font>❃
+
+56
+00:03:46,740 --> 00:03:52,520
+I mean, they just completely reverse-
+engineered our entire compression engine.
+
+57
+00:03:52,530 --> 00:03:54,190
+He totally sniped us.
+
+58
+00:03:54,200 --> 00:03:56,240
+- We'll be fine.
+- What?
+
+59
+00:03:56,250 --> 00:03:59,910
+They judge this contest on
+viability in the marketplace.
+
+60
+00:03:59,920 --> 00:04:03,280
+I mean, at best, we're a
+worse version of Nucleus.
+
+61
+00:04:03,290 --> 00:04:06,080
+I mean, they have 50 modules,
+and they're all awesome.
+
+62
+00:04:06,090 --> 00:04:08,129
+We have five that barely work.
+
+63
+00:04:08,130 --> 00:04:11,799
+I mean, we're still have trouble compressing
+3D files. Who's lining up to buy that?
+
+64
+00:04:11,800 --> 00:04:13,620
+Who the fuck cares?
+
+65
+00:04:13,630 --> 00:04:17,760
+So the platform can't handle 3D files.
+You know what, 3D movies suck anyway.
+
+66
+00:04:17,770 --> 00:04:20,760
+I could actually argue this
+Gavin nonsense is a positive.
+
+67
+00:04:20,770 --> 00:04:21,671
+Please don't.
+
+68
+00:04:21,672 --> 00:04:23,670
+We just need to really dial it up for the big show tomorrow.
+
+69
+00:04:24,140 --> 00:04:25,850
+Dial what up? He just ruined us.
+
+70
+00:04:25,860 --> 00:04:29,190
+And until then, we need to do what any
+animal in nature does when it's cornered,
+
+71
+00:04:29,200 --> 00:04:32,610
+act erratically, and blindly
+lash out at everything around us.
+
+72
+00:04:32,620 --> 00:04:34,280
+I'm gonna go get in Gavin's head.
+
+73
+00:04:34,290 --> 00:04:38,450
+Hey, guys, I just had a thought.
+OK, so this is it, right?
+
+74
+00:04:38,460 --> 00:04:41,900
+A lot of successful start-ups launched
+with a different business model,
+
+75
+00:04:41,910 --> 00:04:44,900
+and when they ran into trouble,
+they pivoted to something new.
+
+76
+00:04:44,910 --> 00:04:48,830
+Like Instagram. That was a location-based
+check-in service when it started.
+
+77
+00:04:48,840 --> 00:04:49,999
+And then they pivoted.
+
+78
+00:04:50,000 --> 00:04:52,460
+Or Chat Roulette, OK,
+that was social media,
+
+79
+00:04:52,470 --> 00:04:57,470
+and then they pivoted to become a
+playground for the sexually monstrous.
+
+80
+00:04:57,480 --> 00:05:00,420
+We just need a new idea, something that
+people want. Right? We can pivot, too.
+
+81
+00:05:00,430 --> 00:05:04,640
+- Dude, you are fucked up right now.
+- Yeah, you're pinning bad.
+
+82
+00:05:04,650 --> 00:05:06,430
+Well, I'll admit, I'm sleep-challenged.
+
+83
+00:05:06,440 --> 00:05:09,680
+I just spent four days trapped
+in a steel box out on an oil rig
+
+84
+00:05:09,690 --> 00:05:11,150
+full of robot-forklifts.
+
+85
+00:05:11,160 --> 00:05:13,900
+So, that was hard, but I'm back.
+
+86
+00:05:13,910 --> 00:05:17,900
+I am recovering and I am focused and
+we're gonna pivot. Don't lose faith, guys.
+
+87
+00:05:17,910 --> 00:05:20,240
+All right, look at me.
+Look at me. Look at me.
+
+88
+00:05:20,250 --> 00:05:23,699
+We've got a great name.
+We've got a great team.
+
+89
+00:05:23,700 --> 00:05:26,330
+We've got a great logo,
+and we've got a great name.
+
+90
+00:05:26,340 --> 00:05:27,960
+Now we just need an idea.
+
+91
+00:05:27,970 --> 00:05:33,040
+Let's pivot! Let's pivot!
+
+92
+00:05:33,050 --> 00:05:35,540
+That might be the last
+time we see him alive.
+
+93
+00:05:35,550 --> 00:05:38,810
+I think I'm just gonna take a walk
+and, you know, try and clear my head.
+
+94
+00:05:38,820 --> 00:05:45,550
+I'll see you guys back at the hotel
+room and we'll figure out what to do.
+
+95
+00:05:45,560 --> 00:05:47,970
+We're going to be poor.
+
+96
+00:05:47,980 --> 00:05:52,970
+Hi! I'd like to talk to you about
+a company called Pied Piper.
+
+97
+00:05:52,980 --> 00:05:54,440
+What does it do? Good question.
+
+98
+00:05:54,450 --> 00:05:56,569
+Maybe you can help us find an answer.
+
+99
+00:05:56,570 --> 00:06:00,560
+What if Pied Piper was an app
+that could attract rodents?
+
+100
+00:06:00,570 --> 00:06:02,120
+You know, like the fairy tale?
+
+101
+00:06:02,130 --> 00:06:05,409
+For purposes of extermination
+or to feed your pet snake.
+
+102
+00:06:05,410 --> 00:06:08,370
+We're not here to tell you
+what to do with your rats,
+
+103
+00:06:08,380 --> 00:06:10,660
+we're here to get your rats, STAT.
+
+104
+00:06:10,670 --> 00:06:13,890
+Would you be very interested,
+somewhat interested or not interested?
+
+105
+00:06:13,900 --> 00:06:20,470
+Which one? Which one? Which one?
+
+106
+00:06:20,480 --> 00:06:24,890
+Look at them, all full of hope. Pricks.
+
+107
+00:06:24,900 --> 00:06:27,390
+Oh, look, Kwerpy's here recruiting.
+
+108
+00:06:27,400 --> 00:06:32,269
+They just got 20 million in Series A
+at a $280 million dollar valuation.
+
+109
+00:06:32,270 --> 00:06:36,109
+- Wow.
+- That could have been us.
+
+110
+00:06:36,110 --> 00:06:39,650
+It's too bad we already have jobs,
+we could easily go work there.
+
+111
+00:06:39,660 --> 00:06:45,660
+Yeah. It'd be a real dickhead move
+to bail on Richard now, right?
+
+112
+00:06:45,670 --> 00:06:49,530
+I mean, before we officially go under.
+
+113
+00:06:49,540 --> 00:06:54,750
+- Yeah. Yeah. Total dickhead move.
+- Yeah. Yeah.
+
+114
+00:06:54,760 --> 00:06:57,620
+Even though... it is just a matter of days.
+
+115
+00:06:57,630 --> 00:07:01,799
+- And we are so close.
+- I mean, he is standing right there.
+
+116
+00:07:01,800 --> 00:07:04,210
+- But I'm not a dickhead.
+- No. Neither am I.
+
+117
+00:07:04,220 --> 00:07:05,930
+Yep, just a couple of non-dickheads.
+
+118
+00:07:05,940 --> 00:07:07,260
+My dick and my head, totally separate.
+
+119
+00:07:07,270 --> 00:07:10,300
+You've heard the phrase, "Time
+to pay the piper," right?
+
+120
+00:07:10,310 --> 00:07:14,150
+What if there was an app called
+Pied Piper that could tell you,
+
+121
+00:07:14,160 --> 00:07:18,860
+to a statistical degree of certainty,
+whether you were going to heaven or hell?
+
+122
+00:07:18,870 --> 00:07:22,150
+Very interested, somewhat
+interested, not interested?
+
+123
+00:07:22,160 --> 00:07:25,320
+Which one? Which one? Which one?
+
+124
+00:07:25,330 --> 00:07:28,740
+So you made some really
+over-the-top promises about Nucleus.
+
+125
+00:07:28,750 --> 00:07:30,650
+- Can you deliver?
+- Absolutely.
+
+126
+00:07:30,660 --> 00:07:35,240
+For me, Kara, goodness, greatness,
+these are not simply catch phrases,
+
+127
+00:07:35,250 --> 00:07:37,669
+but, in fact, really the intention
+of Hooli from the beginning.
+
+128
+00:07:37,670 --> 00:07:40,910
+Gavin, you do not need to dignify
+any of this with a response!
+
+129
+00:07:40,920 --> 00:07:44,120
+I can speak for myself.
+Erlich Bachman, Pied Piper.
+
+130
+00:07:44,130 --> 00:07:46,250
+Was I brutally assaulted? Yes.
+
+131
+00:07:46,260 --> 00:07:49,510
+Did Gavin Belson here have
+anything to do with it? Unclear.
+
+132
+00:07:49,520 --> 00:07:54,480
+All I know is that the rumor that
+TechCrunch is all abuzz about is unproven.
+
+133
+00:07:54,490 --> 00:07:56,189
+- Wait, what rumor?
+- Thank you.
+
+134
+00:07:56,190 --> 00:07:58,570
+Why would Gavin have
+anything to do with this?
+
+135
+00:07:58,580 --> 00:08:03,770
+Unless he had some reason to be frightened
+by Pied Piper and it's superior technology?
+
+136
+00:08:03,780 --> 00:08:08,530
+This and all other Gavin Belson
+rumors are unsubstantiated.
+
+137
+00:08:08,540 --> 00:08:11,740
+OK, the alcoholism, the
+sexual impropriety at work,
+
+138
+00:08:11,750 --> 00:08:15,110
+the impending crash of Hooli's stock...
+
+139
+00:08:15,120 --> 00:08:16,620
+This is the most ridiculous...
+
+140
+00:08:16,630 --> 00:08:19,590
+Exactly. So why repeat
+the lascivious details,
+
+141
+00:08:19,600 --> 00:08:22,510
+with which all of us are
+undoubtedly already familiar?
+
+142
+00:08:22,520 --> 00:08:25,880
+Guilty or not, Gavin, I stand with you.
+
+143
+00:08:25,890 --> 00:08:30,889
+Care to comment?
+
+144
+00:08:30,890 --> 00:08:32,559
+Let's keep moving, shall we?
+
+145
+00:08:32,560 --> 00:08:35,130
+Yes, let's all keep moving.
+Let's move on from this.
+
+146
+00:08:35,140 --> 00:08:39,520
+I forgive you, Gavin. No matter
+how brutally I was assaulted.
+
+147
+00:08:39,530 --> 00:08:42,440
+Wow, Pied Piper sounds
+like a great place to work.
+
+148
+00:08:42,450 --> 00:08:43,569
+Oh, yeah, it is.
+
+149
+00:08:43,570 --> 00:08:45,900
+Pied Piper is the best, right?
+
+150
+00:08:45,910 --> 00:08:48,870
+Oh, my God, everyday feels like
+I've died and gone to hell.
+
+151
+00:08:48,880 --> 00:08:50,150
+I'm sorry.
+
+152
+00:08:50,160 --> 00:08:52,240
+- He's a Satanist, so it's good.
+- Mm-hmm.
+
+153
+00:08:52,250 --> 00:08:55,120
+- Oh, fun.
+- The point is, we love our company,
+
+154
+00:08:55,130 --> 00:08:56,710
+and I don't have a problem
+saying that out loud.
+
+155
+00:08:56,720 --> 00:08:58,410
+- You...
+- Love it.
+
+156
+00:08:58,420 --> 00:09:00,589
+We both say it out loud
+and I think that fact,
+
+157
+00:09:00,590 --> 00:09:04,580
+proves that we're not dickheads.
+
+158
+00:09:04,590 --> 00:09:06,720
+So what we wanted to ask you was...
+
+159
+00:09:06,730 --> 00:09:09,550
+Guys?
+
+160
+00:09:09,560 --> 00:09:13,170
+Totally between us, our beta crapped out.
+
+161
+00:09:13,180 --> 00:09:16,340
+The VC's did a full clawback
+and our Series A is DOA.
+
+162
+00:09:16,350 --> 00:09:21,180
+We're going down. We have enough
+runway for maybe two, three weeks max.
+
+163
+00:09:21,190 --> 00:09:31,820
+So... do you guys think you could hire me?
+
+164
+00:09:31,830 --> 00:09:36,119
+How much would it be worth to you if I
+told you I had a GPS app called Pied Piper,
+
+165
+00:09:36,120 --> 00:09:37,780
+tracking the location of your child?
+
+166
+00:09:37,790 --> 00:09:39,620
+I can follow your child anywhere,
+
+167
+00:09:39,630 --> 00:09:41,900
+and there is nothing you can do to stop me.
+
+168
+00:09:41,910 --> 00:09:44,460
+Most missing children are never found.
+
+169
+00:09:44,470 --> 00:09:51,460
+Interested, very interested,
+or very interested?
+
+170
+00:09:51,470 --> 00:09:53,630
+Richard. Hi...
+
+171
+00:09:53,640 --> 00:09:56,639
+- Hey... suitcase. Yeah.
+- Yeah.
+
+172
+00:09:56,640 --> 00:09:58,140
+So you're...
+
+173
+00:09:58,150 --> 00:10:03,640
+Peter called. He saw Erlich's
+presentation, such as it was.
+
+174
+00:10:03,650 --> 00:10:05,940
+And Gavin's.
+
+175
+00:10:05,950 --> 00:10:07,860
+So he wants me to go back to Palo Alto.
+
+176
+00:10:07,870 --> 00:10:11,060
+There's just a few other
+things he wants me working on.
+
+177
+00:10:11,070 --> 00:10:14,320
+Now that we're, you
+know, dead in the water.
+
+178
+00:10:14,330 --> 00:10:17,570
+Listen, I'm sorry you walked
+away from the money like you did.
+
+179
+00:10:17,580 --> 00:10:19,926
+But I swear I only wanted Peter to seed you
+
+180
+00:10:19,927 --> 00:10:22,339
+because I thought you had a really great company.
+
+181
+00:10:22,340 --> 00:10:24,880
+It just didn't work out for you this time.
+
+182
+00:10:24,890 --> 00:10:26,580
+Uh... can I be honest with you?
+
+183
+00:10:26,590 --> 00:10:30,500
+I haven't had more than two
+straight hours of sleep in months.
+
+184
+00:10:30,510 --> 00:10:32,550
+I've had a cold for, like, a year.
+
+185
+00:10:32,560 --> 00:10:36,670
+My stomach cramps up so much
+I feel like I'm menstruating.
+
+186
+00:10:36,680 --> 00:10:39,560
+Maybe this is for the better.
+
+187
+00:10:39,570 --> 00:10:42,150
+Look, I gotta go.
+
+188
+00:10:42,160 --> 00:10:44,930
+I'm really sorry that we're not
+gonna be working together anymore.
+
+189
+00:10:44,940 --> 00:10:47,100
+Yeah, me too.
+
+190
+00:10:47,110 --> 00:10:50,520
+I guess... I guess we
+won't see each other again.
+
+191
+00:10:50,530 --> 00:10:54,490
+Well, I mean, now that the rules
+about socializing with co-workers
+
+192
+00:10:54,500 --> 00:10:58,530
+aren't in effect anymore. Let me know
+if you want to grab a drink sometime.
+
+193
+00:10:58,540 --> 00:11:02,420
+What, like a "drink" drink?
+
+194
+00:11:02,430 --> 00:11:05,270
+You go on dates with
+failures?
+
+195
+00:11:05,280 --> 00:11:08,620
+- Constantly.
+- OK.
+
+196
+00:11:08,630 --> 00:11:15,210
+- Uh... bye. OK.
+- Bye.
+
+197
+00:11:15,220 --> 00:11:18,210
+You have any weapons or drugs
+on your person at this time?
+
+198
+00:11:18,220 --> 00:11:25,050
+Why, yes. Yes, I do.
+
+199
+00:11:25,060 --> 00:11:28,640
+Adderall. This is a highly controlled
+substance. Are these yours?
+
+200
+00:11:28,650 --> 00:11:32,110
+No! Those belong to an underage
+kid that I brought to my house.
+
+201
+00:11:32,120 --> 00:11:35,409
+Yeah, sir, I'm going to have
+to ask you to come with me.
+
+202
+00:11:35,410 --> 00:11:38,320
+That's a kind invitation, but I
+have too much to do. I'm pivoting!
+
+203
+00:11:38,330 --> 00:11:40,870
+- Let's go now!
+- No. I'm pivoting! I'm pivoting!
+
+204
+00:11:40,880 --> 00:11:43,749
+I'm pivoting!
+
+205
+00:11:43,750 --> 00:11:47,540
+I mean, what do we even present tomorrow?
+
+206
+00:11:47,550 --> 00:11:48,780
+Honestly, anyone?
+
+207
+00:11:48,790 --> 00:11:50,300
+Why do we have to present at all?
+
+208
+00:11:50,310 --> 00:11:51,910
+What's that supposed to mean?
+
+209
+00:11:51,920 --> 00:11:53,770
+If we are going to fail and
+be humiliated, why do it
+
+210
+00:11:53,780 --> 00:11:56,750
+on stage in front of 1,000 people
+and a live-streamed audience?
+
+211
+00:11:56,760 --> 00:11:58,740
+Are you saying we shouldn't even show up?
+
+212
+00:11:58,750 --> 00:12:02,280
+No offense, but it's basically
+going to be a public execution.
+
+213
+00:12:02,290 --> 00:12:04,690
+Yes, and public executions
+are very popular.
+
+214
+00:12:04,700 --> 00:12:07,510
+It's show business. We
+are not quitting, Richard.
+
+215
+00:12:07,520 --> 00:12:12,520
+Look, Erlich, I want to present,
+I do, it's just... I don't know.
+
+216
+00:12:16,950 --> 00:12:19,119
+Jesus, are you OK?
+
+217
+00:12:19,120 --> 00:12:21,910
+What? Yeah, I... OK.
+
+218
+00:12:21,920 --> 00:12:23,580
+Yeah, all good. They let me go.
+
+219
+00:12:23,590 --> 00:12:26,670
+- Who let you go?
+- When was the last time you slept, Jared?
+
+220
+00:12:26,680 --> 00:12:30,870
+Absolutely, David. What are
+we talking about, gents?
+
+221
+00:12:30,880 --> 00:12:33,840
+We're talking about how I didn't
+get to present in the prelims,
+
+222
+00:12:33,850 --> 00:12:35,911
+because I was too busy getting my face
+pummeled
+
+223
+00:12:35,912 --> 00:12:37,549
+so that our team could move forward.
+
+224
+00:12:37,550 --> 00:12:39,180
+That's why we're presenting tomorrow.
+
+225
+00:12:39,190 --> 00:12:41,510
+And you know what? We're going to win.
+
+226
+00:12:41,520 --> 00:12:45,640
+Yeah, we're gonna win even if I have to go
+into the auditorium and personally jerk off
+
+227
+00:12:45,650 --> 00:12:46,600
+every guy in the audience.
+
+228
+00:12:46,610 --> 00:12:49,720
+That's a lot of jerking.
+
+229
+00:12:49,730 --> 00:12:52,910
+And we only have ten
+minutes to present. So...
+
+230
+00:12:52,920 --> 00:12:57,480
+So, we're fucked, aren't we?
+
+231
+00:12:57,490 --> 00:13:01,800
+Yeah, even if he's jerking two at a time,
+there are, what, 800 guys in that room?
+
+232
+00:13:01,810 --> 00:13:04,900
+So that's 400 times whatever
+the mean jerk-time is.
+
+233
+00:13:04,910 --> 00:13:07,240
+- The what?
+- Mean jerk-time.
+
+234
+00:13:07,250 --> 00:13:09,330
+I mean, it doesn't matter,
+but, hypothetically,
+
+235
+00:13:09,340 --> 00:13:12,530
+time is equal to 400 total
+jerks at a two-dick rate.
+
+236
+00:13:12,540 --> 00:13:16,670
+Unless Erlich jerks off four guys at a
+time, and then we can cut that in half.
+
+237
+00:13:16,680 --> 00:13:21,420
+How would he do four guys...? He's got two
+hands, so that's two dicks at a time, right?
+
+238
+00:13:21,430 --> 00:13:24,920
+Look, you have two guys on either
+side with their dicks, tip to tip,
+
+239
+00:13:24,930 --> 00:13:28,310
+so you're going full-length. Four, see?
+
+240
+00:13:28,320 --> 00:13:31,480
+- Oh...
+- From the middle out. That does make sense.
+
+241
+00:13:31,490 --> 00:13:34,306
+- Like two Shake Weights?
+- Yeah, so what we're trying to do,
+
+242
+00:13:34,307 --> 00:13:38,240
+hypothetically, is minimize time, which is 800 dudes,
+
+243
+00:13:38,250 --> 00:13:42,610
+multiplied by mean-jerk time,
+divided by four dicks at a time.
+
+244
+00:13:42,620 --> 00:13:43,801
+Of course, Erlich would have to
+
+245
+00:13:43,802 --> 00:13:45,800
+pre-sort
+guys by height, so that their dicks lined up.
+
+246
+00:13:47,010 --> 00:13:48,330
+Not by height, technically.
+
+247
+00:13:48,340 --> 00:13:52,000
+The measurement that we're looking
+for, really, is dick to floor.
+
+248
+00:13:52,010 --> 00:13:53,920
+Call that D2F.
+
+249
+00:13:53,930 --> 00:13:56,510
+- Huh.
+- Oh, my God.
+
+250
+00:13:56,520 --> 00:13:58,510
+You know, if a guy's dick was long enough,
+
+251
+00:13:58,520 --> 00:14:02,960
+it would be able to reach up or down
+to another guy with a different D2F.
+
+252
+00:14:02,970 --> 00:14:06,550
+The longer the dick, the
+greater the D2F bridge,
+
+253
+00:14:06,560 --> 00:14:10,520
+but I would still be able to jerk
+it off in one smooth motion...
+
+254
+00:14:10,530 --> 00:14:12,440
+I'd just have to jerk it on an angle.
+
+255
+00:14:12,450 --> 00:14:14,819
+So D2F sub-1 needs to equal D2F
+sub-2,
+
+256
+00:14:14,820 --> 00:14:16,989
+and D2F sub-3 needs to equal D2F sub-4,
+
+257
+00:14:16,990 --> 00:14:21,060
+where length L creates a
+complimentary shaft angle.
+
+258
+00:14:26,810 --> 00:14:29,520
+I'm such an idiot. Middle out!
+
+259
+00:14:29,530 --> 00:14:32,980
+Middle out! Middle out! Oh, my God.
+
+260
+00:14:32,990 --> 00:14:36,900
+How could I...? Uh...
+
+261
+00:14:36,910 --> 00:14:40,120
+Guys, does girth-similarity
+affect Erlich's ability
+
+262
+00:14:40,130 --> 00:14:46,290
+to jerk different dicks simultaneously?
+
+263
+00:14:46,300 --> 00:14:48,710
+Shit. Yeah, I think it would.
+
+264
+00:15:00,650 --> 00:15:06,090
+Of course, it does. Time to orgasm, or T2O,
+
+265
+00:15:06,100 --> 00:15:07,850
+has to be the same for
+each matching pair of dicks
+
+266
+00:15:07,860 --> 00:15:10,810
+otherwise I'm wasting a lot of great
+strokes on a guy that's already busted.
+
+267
+00:15:10,820 --> 00:15:15,490
+Unless you can hotswap dicks in and out.
+So on a downstroke, you get a new one in.
+
+268
+00:15:15,500 --> 00:15:17,570
+So when you stroke up you're
+not wasting any energy.
+
+269
+00:15:17,580 --> 00:15:20,530
+Even so. I think this is the
+most reliable metric for stamina.
+
+270
+00:15:20,540 --> 00:15:26,369
+Guys? Richard's been locked in here for
+almost two hours. Do we think he's OK?
+
+271
+00:15:26,370 --> 00:15:28,330
+Hmm. You don't think he'd...
+
+272
+00:15:28,340 --> 00:15:32,700
+He did seem pretty bummed out.
+
+273
+00:16:09,500 --> 00:16:10,740
+All right, guys, let's go.
+
+274
+00:16:10,750 --> 00:16:12,410
+- The finals are starting.
+- Up!
+
+275
+00:16:12,420 --> 00:16:13,530
+Gilfoyle!
+
+276
+00:16:13,540 --> 00:16:16,830
+Jesus!
+
+277
+00:16:16,840 --> 00:16:19,250
+What happened to the door?
+
+278
+00:16:19,260 --> 00:16:21,250
+Don't worry about it, Richard,
+is the platform up and running?
+
+279
+00:16:21,260 --> 00:16:24,340
+I made a few changes, but yeah...
+
+280
+00:16:24,350 --> 00:16:27,220
+OK, tell me on the walk. All
+right, you dildos, let's go!
+
+281
+00:16:27,230 --> 00:16:29,980
+All right, talk to me, Richard.
+What were you working on last night?
+
+282
+00:16:29,990 --> 00:16:31,939
+Well, uh, I might've made a breakthrough.
+
+283
+00:16:31,940 --> 00:16:33,430
+Really, so everything is working?
+
+284
+00:16:33,440 --> 00:16:48,840
+Uh, technically, no.
+
+285
+00:17:05,560 --> 00:17:08,800
+Let's face it, ladies, is
+there anything less sexy
+
+286
+00:17:08,810 --> 00:17:12,640
+than when a user's visualization
+UX is completely sub-optimal?
+
+287
+00:17:12,650 --> 00:17:14,649
+I mean, it's the worst, right?
+
+288
+00:17:14,650 --> 00:17:17,220
+So we've gone through all the
+research and all the steps.
+
+289
+00:17:17,230 --> 00:17:18,886
+We have a solution for these problems
+
+290
+00:17:18,887 --> 00:17:20,880
+and
+Zenella is ready to bring it to the marketplace.
+
+291
+00:17:21,150 --> 00:17:23,310
+Yeah, I get it, Richard. You changed a lot.
+
+292
+00:17:23,320 --> 00:17:25,280
+Just give me the basics
+and I can roll with it.
+
+293
+00:17:25,290 --> 00:17:26,730
+I need to know what I'm presenting here.
+
+294
+00:17:26,740 --> 00:17:28,490
+I don't think I have
+time to explain it all.
+
+295
+00:17:28,500 --> 00:17:30,290
+What the hell does that mean?
+
+296
+00:17:30,300 --> 00:17:33,040
+Richard? Is this the right build?
+I can't find the mobile suite here.
+
+297
+00:17:33,050 --> 00:17:36,130
+Uh, it is nowhere. I deleted it.
+
+298
+00:17:36,140 --> 00:17:37,500
+- What?
+- Here they are.
+
+299
+00:17:37,510 --> 00:17:39,660
+- Pied Piper's here.
+- Sorry we're late.
+
+300
+00:17:39,670 --> 00:17:41,500
+Richard, talk to me.
+
+301
+00:17:41,510 --> 00:17:43,280
+I can't front a band without
+knowing what we're playing?
+
+302
+00:17:43,290 --> 00:17:48,010
+Uh... I'm think I'm just going
+to do the presentation myself.
+
+303
+00:17:48,020 --> 00:17:50,260
+Wait, what? No, no, no, Richard,
+Richard, Richard, Richard.
+
+304
+00:17:50,270 --> 00:17:53,010
+Respectfully... Respectfully,
+you're terrible.
+
+305
+00:17:53,020 --> 00:17:55,350
+You have world class showman
+standing right in front of you
+
+306
+00:17:55,360 --> 00:17:56,510
+and you're going to pass on that?
+
+307
+00:17:56,520 --> 00:17:59,029
+Release me, Richard. Release the Kraken!
+
+308
+00:17:59,030 --> 00:18:02,350
+- Pied Piper. You're on.
+- This is it!
+
+309
+00:18:02,360 --> 00:18:04,020
+I don't know
+what you did, Richard,
+
+310
+00:18:04,030 --> 00:18:06,940
+- but I hope it works.
+- Me, too.
+
+311
+00:18:06,950 --> 00:18:09,860
+All right, let's welcome
+our final team to the finals
+
+312
+00:18:09,870 --> 00:18:13,330
+of this year's TechCrunch
+Disrupt Start-Up Battlefield.
+
+313
+00:18:13,340 --> 00:18:16,700
+Presenting for Pied
+Piper is Erlich Bachman.
+
+314
+00:18:22,180 --> 00:18:25,840
+Uh... actually there has
+been a change of plans.
+
+315
+00:18:25,850 --> 00:18:29,510
+Presenting for Pied Piper
+will be Richard Hendricks.
+
+316
+00:18:35,400 --> 00:18:39,060
+Richard?
+
+317
+00:18:39,070 --> 00:18:42,110
+Sorry. Got a little
+light-headed there for a second.
+
+318
+00:18:42,120 --> 00:18:45,400
+I set 'em up for you, now knock 'em down.
+
+319
+00:18:45,410 --> 00:18:48,980
+I don't understand. I
+thought he made the platform better.
+
+320
+00:18:48,990 --> 00:18:52,370
+- He just deleted everything.
+- Maybe he moved it to the cloud?
+
+321
+00:18:52,380 --> 00:18:55,240
+No. All The Carver's work is gone.
+
+322
+00:18:55,250 --> 00:18:58,740
+Pied Piper is a cloud based compression.
+Without the cloud, nothing's left.
+
+323
+00:18:58,750 --> 00:19:03,460
+Gentlemen, this is likely the last ten
+minutes of Pied Piper, so let's enjoy it.
+
+324
+00:19:03,470 --> 00:19:05,420
+- Has he lost his mind?
+- He's lost his fucking mind.
+
+325
+00:19:05,430 --> 00:19:08,330
+Hello... Hello. Hello.
+
+326
+00:19:08,340 --> 00:19:11,760
+Um... I am... My name is Richard Hendricks,
+
+327
+00:19:11,770 --> 00:19:16,640
+and I am, along with this guy, him, him...
+
+328
+00:19:16,650 --> 00:19:20,900
+and another guy that has disappeared...
+
+329
+00:19:20,910 --> 00:19:26,600
+Uh... um... We are Pied
+Piper. A compression company.
+
+330
+00:19:26,610 --> 00:19:29,070
+Well, you know, in your
+pamphlets it says that we are
+
+331
+00:19:29,080 --> 00:19:33,110
+a cloud based multi-platform solution
+for user-focused compression.
+
+332
+00:19:33,120 --> 00:19:36,700
+And we were. Until yesterday.
+
+333
+00:19:36,710 --> 00:19:41,000
+But now we are not.
+
+334
+00:19:41,010 --> 00:19:43,250
+Uh, because you see, Hooli
+
+335
+00:19:43,260 --> 00:19:46,420
+did everything that we were
+tying to do, better, way better.
+
+336
+00:19:46,430 --> 00:19:48,620
+Um...
+
+337
+00:19:48,630 --> 00:19:54,300
+Nucleus is built on the same engine
+as ours, like exactly the same,
+
+338
+00:19:54,310 --> 00:19:57,970
+and their Weissman score
+was 2.89, same as ours.
+
+339
+00:19:57,980 --> 00:20:02,440
+But the thing is, they built a ton of
+really great stuff up on top of that.
+
+340
+00:20:02,450 --> 00:20:06,390
+And we can't compete, so now
+we have to be something else.
+
+341
+00:20:06,400 --> 00:20:08,890
+Um... well-played, Hooli.
+
+342
+00:20:08,900 --> 00:20:14,870
+Uh, OK, so anyway, we all
+know that the most obvious way
+
+343
+00:20:14,880 --> 00:20:18,620
+to compress files is with
+Shannon coding, right? Top down.
+
+344
+00:20:18,630 --> 00:20:21,460
+Richard, they can't see
+that, it's too small.
+
+345
+00:20:21,470 --> 00:20:23,160
+- OK.
+- Literally, hundreds of people here.
+
+346
+00:20:23,170 --> 00:20:26,410
+Oh, no, but I need...
+
+347
+00:20:26,420 --> 00:20:27,860
+Shit, OK.
+
+348
+00:20:27,870 --> 00:20:31,170
+Um... right, oh.
+
+349
+00:20:31,180 --> 00:20:35,179
+Uh, so Shannon coding and
+then David Huffman came along,
+
+350
+00:20:35,180 --> 00:20:40,060
+and he pioneered bottom up, and
+Lempel-Ziv with left to right, obviously.
+
+351
+00:20:40,070 --> 00:20:42,850
+And for decades, we used
+these codes to compress,
+
+352
+00:20:42,860 --> 00:20:46,600
+you know, JPEGs, MPEGs,
+MP3s, zips, all that stuff.
+
+353
+00:20:46,610 --> 00:20:51,699
+But we all know that, so there's
+no point in talking about it.
+
+354
+00:20:51,700 --> 00:20:57,580
+But what happened was, last night I was
+watching my friends here have this argument.
+
+355
+00:20:57,590 --> 00:21:01,860
+About, you know, manipulating... data...
+
+356
+00:21:01,870 --> 00:21:04,670
+And, you know, how many datas
+
+357
+00:21:04,680 --> 00:21:08,450
+could one guy manipulate at once and, uh...
+
+358
+00:21:09,730 --> 00:21:12,210
+And I was just... I was thinking.
+
+359
+00:21:12,220 --> 00:21:13,790
+Maybe it could be another way, you know?
+
+360
+00:21:13,800 --> 00:21:16,719
+Something that I would call, "middle out".
+
+361
+00:21:16,720 --> 00:21:21,350
+It's up and down, back and forth all
+at the same time going on at once.
+
+362
+00:21:21,360 --> 00:21:25,270
+OK, well, anyway, I deleted
+all our modules last night,
+
+363
+00:21:25,280 --> 00:21:28,210
+and I completely rebuilt our
+engine, from scratch last night.
+
+364
+00:21:28,220 --> 00:21:29,710
+Um...
+
+365
+00:21:29,720 --> 00:21:33,739
+Now, this morning I really only
+had enough time to do one test,
+
+366
+00:21:33,740 --> 00:21:41,579
+and when I did, we hit
+a Weissman score of 3.8.
+
+367
+00:21:41,580 --> 00:21:45,240
+Now, I know the theoretical limit was 2.9,
+
+368
+00:21:45,250 --> 00:21:50,880
+- but as you can see here...
+- I'm sorry. You scored a 3.8?
+
+369
+00:21:50,890 --> 00:21:52,880
+Uh... Yes, sir.
+
+370
+00:21:52,890 --> 00:21:55,380
+And this is a universal
+lossless compression engine?
+
+371
+00:21:55,390 --> 00:21:58,750
+- Text? Audio? Video?
+- Yes, that is correct.
+
+372
+00:21:58,760 --> 00:22:02,340
+Well, I'm sorry to interrupt your
+eloquent presentation, Richard.
+
+373
+00:22:02,350 --> 00:22:05,939
+But, rather than say anything more,
+why don't we just give you a file
+
+374
+00:22:05,940 --> 00:22:08,230
+and we'll see whether this thing
+can do what you say it does.
+
+375
+00:22:08,240 --> 00:22:11,940
+Because if it can't, then
+we're done here, right?
+
+376
+00:22:11,950 --> 00:22:13,650
+Yeah. Yeah, that's fair.
+
+377
+00:22:13,660 --> 00:22:15,949
+So we can give you any kind of
+file and you can compress it,
+
+378
+00:22:15,950 --> 00:22:19,440
+without degradation, at
+this standard? Three-eight?
+
+379
+00:22:19,450 --> 00:22:22,180
+Yes... yep.
+
+380
+00:22:22,190 --> 00:22:25,160
+All right, give us a minute, please.
+
+381
+00:22:25,170 --> 00:22:32,350
+- What do we got?
+- Does anyone have anything?
+
+382
+00:22:32,360 --> 00:22:35,260
+- Do you have something?
+- I've got a file for him.
+
+383
+00:22:35,270 --> 00:22:37,540
+OK. Andy Stafford here has a file for you.
+
+384
+00:22:37,550 --> 00:22:40,960
+- OK.
+- It's a 132 gigabytes un-compressed,
+
+385
+00:22:40,970 --> 00:22:46,270
+and it's a 3D video file.
+
+386
+00:22:46,280 --> 00:22:49,070
+OK.
+
+387
+00:22:49,080 --> 00:22:50,970
+Shit...
+
+388
+00:22:50,980 --> 00:22:53,230
+- A fucking 3D file?
+- Yes.
+
+389
+00:22:53,240 --> 00:22:56,730
+- Are you fucking kidding me?
+- Goddammit.
+
+390
+00:22:56,740 --> 00:22:59,900
+- Can we handle this?
+- I guess we'll find out.
+
+391
+00:22:59,910 --> 00:23:11,790
+Dammit, I hope this works.
+
+392
+00:23:11,800 --> 00:23:13,380
+Shit... it's hung.
+
+393
+00:23:13,390 --> 00:23:16,550
+Oh, no.
+
+394
+00:23:16,560 --> 00:23:18,420
+Is it stuck?
+
+395
+00:23:18,430 --> 00:23:22,090
+There is a time limit, you
+have two minutes remaining.
+
+396
+00:23:22,100 --> 00:23:26,180
+Come on, come on, come on...
+
+397
+00:23:27,520 --> 00:23:29,480
+It looks like it's done.
+
+398
+00:23:29,490 --> 00:23:32,010
+Wait, 24 gigs? What happened?
+
+399
+00:23:32,020 --> 00:23:34,859
+Oh... shit, there's no way.
+
+400
+00:23:34,860 --> 00:23:38,270
+It didn't compress the whole thing.
+It should be twice that size.
+
+401
+00:23:38,280 --> 00:23:42,110
+I mean, 24 gigs, that's less
+than a fourth the file size.
+
+402
+00:23:42,120 --> 00:23:43,699
+That seems dubious, Richard.
+
+403
+00:23:43,700 --> 00:23:47,080
+Why don't we run a Weissman test for
+verification, see where we went wrong.
+
+404
+00:23:47,090 --> 00:23:56,620
+OK, I mean it shouldn't take too long,
+it only compressed half the fucking file.
+
+405
+00:23:56,630 --> 00:23:59,120
+I'm sorry. I shouldn't have
+rewritten all this code.
+
+406
+00:23:59,130 --> 00:24:01,049
+I mean, what we had before worked.
+
+407
+00:24:01,050 --> 00:24:04,059
+I'm sorry, guys. Gavin won. We lost.
+
+408
+00:24:04,060 --> 00:24:10,100
+At least it didn't happen in a
+public and brutally embarrassing way.
+
+409
+00:24:10,110 --> 00:24:16,390
+- Thanks, Gilfoyle.
+- Yeah.
+
+410
+00:24:16,400 --> 00:24:19,030
+Wait a second. What's happening?
+
+411
+00:24:19,040 --> 00:24:24,650
+There's no errors, look!
+
+412
+00:24:25,790 --> 00:24:28,870
+- Five-point-two? How, how...?
+- Wait, what?
+
+413
+00:24:28,880 --> 00:24:31,579
+Wait, it
+compressed the whole file?
+
+414
+00:24:31,580 --> 00:24:33,240
+That's the whole file.
+
+415
+00:24:33,250 --> 00:24:36,410
+It's just half the size
+I thought it would be.
+
+416
+00:24:36,420 --> 00:24:40,120
+Ladies and gentlemen, obviously we're
+going to keep looking at this to verify,
+
+417
+00:24:40,130 --> 00:24:44,970
+but with a confirmed score of 5.2,
+Pied Piper appears to have just doubled
+
+418
+00:24:44,980 --> 00:24:47,890
+the best Weissman score
+ever measured. Doubled it!
+
+419
+00:24:47,900 --> 00:24:49,930
+Pied Piper, ladies and gentlemen!
+
+420
+00:24:49,940 --> 00:24:53,100
+Let's hear it for them!
+
+421
+00:24:53,110 --> 00:24:55,230
+Holy shit!
+
+422
+00:24:55,240 --> 00:24:57,279
+Hey, I'm at TechCrunch.
+
+423
+00:24:57,280 --> 00:25:00,600
+This kid Hendricks and Pied
+Piper just ran a two minute mile.
+
+424
+00:25:00,610 --> 00:25:01,940
+We should get on this, now.
+
+425
+00:25:01,950 --> 00:25:07,119
+Suck it, Gavin Belson!
+
+426
+00:25:07,120 --> 00:25:08,830
+Hendricks, you beautiful bastard!
+
+427
+00:25:08,840 --> 00:25:11,530
+I told you we'd do it! Come on!
+
+428
+00:25:11,540 --> 00:25:13,670
+We're not going to be poor!
+
+429
+00:25:13,680 --> 00:25:16,590
+What happened? What
+happened? What happened?
+
+430
+00:25:16,600 --> 00:25:17,950
+Uh, we just won the cup!
+
+431
+00:25:21,850 --> 00:25:26,010
+And I don't think it comes as any shock
+that the winner of this year's Disrupt Cup
+
+432
+00:25:26,020 --> 00:25:33,650
+and $50,000, like they're going
+to need it, is Pied Piper.
+
+433
+00:25:33,660 --> 00:25:35,390
+So Richard wrote the code?
+
+434
+00:25:35,400 --> 00:25:39,560
+Richard wrote the code, yes,
+but the inspiration was clear.
+
+435
+00:25:39,570 --> 00:25:41,319
+Let me ask you something.
+
+436
+00:25:41,320 --> 00:25:45,900
+How fast do you think you could
+jack off every guy in this room?
+
+437
+00:25:45,910 --> 00:25:47,620
+'Cause I know how long it would take me.
+
+438
+00:25:47,630 --> 00:25:48,990
+And I can prove it.
+
+439
+00:25:49,000 --> 00:25:50,650
+- Nice.
+- Thank you so much.
+
+440
+00:25:50,660 --> 00:25:51,650
+I don't fully understand it
+
+441
+00:25:51,660 --> 00:25:53,160
+but I would definitely like to invest.
+
+442
+00:25:53,170 --> 00:25:54,990
+- Oh, great.
+- Really impressed.
+
+443
+00:25:55,000 --> 00:25:56,290
+I really want to get you
+in front of my partners.
+
+444
+00:25:56,300 --> 00:25:58,339
+- Really soon.
+- Oh wow. I appreciate that, guys.
+
+445
+00:25:58,340 --> 00:26:00,460
+Well, hopefully we'll
+talk to each other soon.
+
+446
+00:26:00,470 --> 00:26:01,380
+- Thanks.
+- Thanks.
+
+447
+00:26:01,390 --> 00:26:03,630
+- Hey!
+- Monica!
+
+448
+00:26:03,640 --> 00:26:06,670
+Congratulations! You were amazing up there.
+
+449
+00:26:06,680 --> 00:26:08,679
+- Thank you.
+- I just spoke with Peter.
+
+450
+00:26:08,680 --> 00:26:12,980
+He watched the live-stream via satellite
+and said he was "not unpleased".
+
+451
+00:26:12,990 --> 00:26:15,689
+Oh, yeah, that's great.
+
+452
+00:26:15,690 --> 00:26:19,400
+So I guess we're back to
+working together, huh?
+
+453
+00:26:19,410 --> 00:26:24,850
+Yeah. Yeah, I guess so.
+
+454
+00:26:24,860 --> 00:26:26,940
+It's gonna get pretty
+insane for you, Richard.
+
+455
+00:26:26,950 --> 00:26:28,259
+- Yeah.
+- You're going to have more
+
+456
+00:26:28,260 --> 00:26:29,851
+offers of funding than you're going to know
+
+457
+00:26:29,852 --> 00:26:31,419
+- what to do with.
+- Yeah.
+
+458
+00:26:31,420 --> 00:26:33,326
+You're going to have to grow a business,
+hire a staff,
+
+459
+00:26:33,327 --> 00:26:35,320
+rent offices, get an assistant.
+
+460
+00:26:35,760 --> 00:26:38,920
+Peter is going to be a lot more
+hands on and a lot tougher on you.
+
+461
+00:26:38,930 --> 00:26:42,090
+People may take credit for
+your idea and try and sue you.
+
+462
+00:26:42,100 --> 00:26:45,090
+- How awesome is that?
+- Uh... yeah, that's awesome.
+
+463
+00:26:45,100 --> 00:26:47,130
+I mean, if you thought it was
+crazy getting to this point,
+
+464
+00:26:47,140 --> 00:26:49,331
+- you're not going to believe what it turns into from here.
+
+465
+00:26:49,332 --> 00:26:51,441
+- Right.
+- I mean pretty soon, you could be managing
+
+466
+00:26:51,442 --> 00:26:54,639
+thousands of employees who are all looking up to you.
+
+467
+00:26:54,640 --> 00:26:57,100
+Gavin Belson, he's not
+going away anytime soon.
+
+468
+00:26:57,110 --> 00:27:00,229
+- Mmm.
+- But it's going to be amazing.
+
+469
+00:27:00,230 --> 00:27:12,579
+Excuse me a second.
+
+470
+00:27:12,580 --> 00:27:14,800
+Oh, Jesus.
+
+471
+00:27:18,550 --> 00:27:23,550
+☯Synced & Corrected by<font color=#80397b> Seppuku17</font>☯
+❃<font color=#e796af>www.addic7ed.com</font>❃
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

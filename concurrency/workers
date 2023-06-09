@@ -1,0 +1,29 @@
+package main
+
+import (
+	"fmt"
+	"time"
+)
+
+type worker struct {
+	name string
+}
+
+func main() {
+	jobs := []string{"Job 1", "Job 2", "Job 3", "Job 4", "Job 5", "Job 6"}
+
+	ehsan := worker{"ehsan"}
+	yosef := worker{"yosef"}
+	hasan := worker{"hasan"}
+
+	ehsan.doJobs(jobs[:2])
+	yosef.doJobs(jobs[2:4])
+	hasan.doJobs(jobs[4:6])
+}
+
+func (w worker) doJobs(jobs []string) {
+	for _, job := range jobs {
+		time.Sleep(time.Second)
+		fmt.Println(job, "by", w.name, "is done")
+	}
+}

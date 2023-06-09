@@ -1,0 +1,37 @@
+package main
+
+import (
+	"context"
+	"fmt"
+	"time"
+)
+
+const interval = 500
+
+func main() {
+	for i := 0; i < 5; i++ {
+		fmt.Println(i)
+	}
+	contextWithCancel()
+}
+
+func contextWithCancel() {
+	ctx, cancel := context.WithCancel(context.Background())
+	go func() {
+		time.Sleep(5 * interval * time.Millisecond)
+		cancel()
+	}()
+	f(ctx)
+}
+
+func f(ctx context.Context) {
+	ticker := time.NewTicker(interval * time.Millisecond)
+	for {
+		select {
+		case <-ticker.C:
+			fmt.Println("tick")
+		case <-ctx.Done():
+			return
+		}
+	}
+}

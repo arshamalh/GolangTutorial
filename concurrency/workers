@@ -6,24 +6,31 @@ import (
 )
 
 type worker struct {
-	name string
+	color string
 }
+
+// A goroutine is a lightweight thread managed by the Go runtime (created in µs, around 2.6 KB memory)
+// Go runtime is a part of Go executable that manages our Go program (e.g. memory allocation, channels communication, goroutines creation) and Communicate with OS kernel
+// A Thread is a sequence of independent instructions needs to be processed by CPU
 
 func main() {
 	jobs := []string{"Job 1", "Job 2", "Job 3", "Job 4", "Job 5", "Job 6"}
 
-	ehsan := worker{"ehsan"}
-	yosef := worker{"yosef"}
-	hasan := worker{"hasan"}
+	blue := worker{"blue"}
+	purple := worker{"purple"}
+	orange := worker{"orange"}
 
-	ehsan.doJobs(jobs[:2])
-	yosef.doJobs(jobs[2:4])
-	hasan.doJobs(jobs[4:6])
+	go blue.doJobs(jobs[:2])
+	go purple.doJobs(jobs[2:4])
+	orange.doJobs(jobs[4:6])
+	// Number of jobs (6) * Time spend for each job(3) = Total time spend (18)
+
+	time.Sleep(time.Second * 3)
 }
 
 func (w worker) doJobs(jobs []string) {
 	for _, job := range jobs {
-		time.Sleep(time.Second)
-		fmt.Println(job, "by", w.name, "is done")
+		time.Sleep(time.Second * 1)
+		fmt.Println(job, "by", w.color, "is done")
 	}
 }

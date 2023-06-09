@@ -17,7 +17,3 @@ func FizzBuzz(number int) string {
 // 5 & not 3 "buzz"
 // 3 & 5 "fizz-buzz"
 // number itself
-
-func IsDivisible(number, divisor int) bool {
-	return number%divisor == 0
-}
